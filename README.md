@@ -15,7 +15,7 @@ Written in JavaScript [Node.JS](https://nodejs.org), using the [discordie](https
 
 ## Main features
 
-- And more, check the [full command reference](http://docs.thesharks.xyz/commands/) for all the commands!
+- Please see the [full command reference](http://docs.thesharks.xyz/commands/) for all the commands.
 
 Visit the [documentation](http://docs.thesharks.xyz) for more information.
 
