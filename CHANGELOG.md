@@ -1,5 +1,8 @@
 # 4.0.0
 ## Release phase
+### 4.2.3
+Imported from WB repo.
+
 ### 4.2.2
 Improvements to errors and other debug information.  
 Added 3 new role related commands: `addrole`, `takerole` and `colorrole`. Refer to http://docs.thesharks.xyz/commands for more information.  

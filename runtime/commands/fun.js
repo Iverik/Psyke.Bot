@@ -359,7 +359,7 @@ Commands.cleverbot = {
   fn: function (msg, suffix) {
     cleverbot.create(function (err, session) {
       if (err) Logger.error(err)
-      cleverbot.setNick('wildbeast')
+      cleverbot.setNick('psykebot')
       msg.channel.sendTyping()
       cleverbot.ask(suffix, function (e, r) {
         if (e) Logger.error(e)
@@ -393,7 +393,7 @@ Commands.catfacts = {
 
 Commands.e621 = {
   name: 'e621',
-  help: 'e621, the definition of *Stop taking the Internet so seriously.*',
+  help: '*L-lewd.*',
   usage: '<tags> multiword tags need to be typed like: wildbeast_is_a_discord_bot',
   level: 0,
   nsfw: true,

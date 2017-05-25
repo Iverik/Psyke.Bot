@@ -1,5 +1,5 @@
 'use strict'
-process.title = 'WildBeast'
+process.title = 'PsykeBot'
 
 var Config
 

@@ -1,22 +1,12 @@
 {
   "private": true,
-  "name": "WildBeast",
+  "name": "PsykeBot",
   "version": "4.2.2",
-  "description": "A Discord Bot",
+  "description": "Mewmewmew",
   "main": "DougBot.js",
   "maintainers": [
     {
-      "name": "Pascal Meijer",
-      "email": "m1rr0rbr34k+github@gmail.com"
-    },
-    {
-      "name": "Curtis Hofstingburg",
-      "email": "curtis@curitzjt.cf",
-      "url": "https://curitzjt.cf/"
-    },
-    {
-      "name": "Anthony Zaza",
-      "email": "tony@lemonmc.com"
+      "name": "Psyke"
     }
   ],
   "scripts": {
