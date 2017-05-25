@@ -1,5 +1,6 @@
-<p style="text-align:center;">
-<img src="http://i.imgur.com/3wB8dIH.png"></p>
+<h1 style="text-align:center;">Psyke.Bot</h1>
+
+<p>Based on initial code by: <br><br><img src="http://i.imgur.com/3wB8dIH.png" style="max-width: 30%"></p>
 
 <p align="center">
 <a href="http://nodejs.org"><img src="https://img.shields.io/badge/Node.js-6.9.1-blue.svg" alt="Node JS"></a>
